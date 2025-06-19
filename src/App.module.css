@@ -1,0 +1,89 @@
+.countdcs{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.account{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  /* font-size: 50px; */
+}
+
+.h1{
+  font-size: 42px;
+}
+
+.p{
+  margin-top: -15px;
+  font-size: 28px;
+}
+.logo{
+  display: flex;
+  height: 30px;
+  width: 30px;
+}
+
+.gmail{
+  display: flex;
+  align-items: center;
+}
+
+.button{
+  display: flex;
+  width: 400px;
+  justify-content: center;
+}
+
+.secondphase{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  gap: 15px;
+}
+
+.names{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.email{
+  display: flex;
+  width: 400px;
+  height: 25px;
+}
+
+.emails{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.password{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.retype{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.Sign{
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  width: 400px;
+}
+
+.accept{
+  display: flex;
+  width: 400px;
+}
